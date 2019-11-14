@@ -1,0 +1,23 @@
+{
+	"name": "js-poc-electron",
+	"version": "1.0.0",
+	"description": "poc for a electron app",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "electron main.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Comum/js-poc-electron.git"
+	},
+	"author": "Miguel Ribeiro",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Comum/js-poc-electron/issues"
+	},
+	"homepage": "https://github.com/Comum/js-poc-electron#readme",
+	"devDependencies": {
+		"electron": "^7.1.1"
+	}
+}
